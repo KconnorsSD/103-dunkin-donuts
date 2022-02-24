@@ -17,7 +17,7 @@ githublink = 'https://github.com/austinlasseter/dash-piechart-example'
 
 ########### Set up the chart
 mydata = go.Pie(
-    hole=0.5,
+    hole=0.2,
     sort=False,
     values=myvalues,
     labels=mylabels,
